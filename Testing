@@ -1,0 +1,8 @@
+POST /api/v1/GitInit
+{
+  "URL": "https://github.com/tm1models/model.git",
+  "Deployment": "dev",
+  "Username": "username",
+  "Password": "password",
+  "Force": true
+}
